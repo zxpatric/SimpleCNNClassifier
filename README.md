@@ -7,8 +7,9 @@ Dogs vs. Cats dataset (https://www.kaggle.com/c/dogs-vs-cats/data).
 
 ## Preparing the dataset
 1) Download the dataset from Kaggle 
-2) Use the script ``prepare_dataset.py`` in order to split train 
-   samples in two folders.
+2) Consider to Use the script ``prepare_dataset.py`` in order to split train samples into two folders. 
+   The data format shall be like below:
+      
   
 ## Training
 Use the script ``train.py`` in order to train a CNN for this purpose.
